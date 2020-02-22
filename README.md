@@ -1,2 +1,8 @@
-# wordpress-affiliate-plugin
-An example WordPress affiliate widget - DEMO ONLY
+# Wordpress Ebay Affiliate Plugin - DEMO ONLY
+
+## Description
+An example of how to use and extend the `WP_Widget` class to build a real-time AJAX sidebar widget using Ebay's RSS feed.
+
+**Connect and parse feed class:** `/classes/BB_Ebay_Rss.php`
+
+**Extending the WP_Widget:** `/classes/BB_Affiliate_Widget.php`
